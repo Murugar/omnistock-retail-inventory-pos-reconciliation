@@ -1,0 +1,8 @@
+{
+  "name": "OmniStock Retail Inventory & POS Reconciliation",
+  "description": "Enterprise-grade retail inventory management platform featuring centralized SKU and variant tracking, real-time POS sales synchronization, automated physical count reconciliation, and audit-governed stock adjustments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
